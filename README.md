@@ -8,6 +8,6 @@ Bachelor of Information Systems.
 
 Enthusiast of the best web & mobile development technologies.
 
-- 💻 Node, ReactJS, React Native, Typescript.
+- 💻 Node, ReactJS, React Native, Typescript, VueJs, KnockoutJs, Java.
 
 "Humanity's greatest achievement is not the technology revolution, it's the evolution of creativity."
