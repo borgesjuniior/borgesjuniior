@@ -1,0 +1,10 @@
+{
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": false,
+  "workbench.colorTheme": "Min Dark",
+  "workbench.iconTheme": "symbols",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.rulers": [80, 120],
+}
